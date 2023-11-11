@@ -24,7 +24,7 @@ export class AppComponent implements AfterViewInit {
     constraints: {
       video: {
         width: window.innerWidth,
-        height: window.innerHeight
+        height: window.innerWidth
       },
     },
    
